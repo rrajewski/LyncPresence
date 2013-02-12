@@ -1,0 +1,42 @@
+.lyncPresence.available
+{
+    background: transparent url(images/available.png) no-repeat center left;
+    padding-left :16px;
+}
+
+.lyncPresence.away
+{
+    background: transparent url(images/away.png) no-repeat center left;
+    padding-left :16px;
+}
+
+.lyncPresence.blocked
+{
+    background: transparent url(images/blocked.png) no-repeat center left;
+    padding-left :16px;
+}
+
+.lyncPresence.busy
+{
+    background: transparent url(images/busy.png) no-repeat center left;
+    padding-left :16px;
+}
+
+.lyncPresence.dnd
+{
+    background: transparent url(images/dnd.png) no-repeat center left;
+    padding-left :16px;
+}
+
+.lyncPresence.offline
+{
+    background: transparent url(images/offline.png) no-repeat center left;
+    padding-left :16px;
+}
+
+.lyncPresence.unknown
+{
+    background: transparent url(images/unknown.png) no-repeat center left;
+    padding-left :16px;
+}
+
